@@ -1,4 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousm4x&theme=dracula&hide=css)
+<h1 align="center">Hi, I'm Max 👋</h1>
+<p align="center">🏗️ Currently building stuff in Go, Svelte and Python</p>
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dracula" alt="seriousm4x" />
+  </a>
+</p>
 
 ☕ Want to buy me a coffee?
 ```
