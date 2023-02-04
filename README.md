@@ -7,6 +7,9 @@
 </p>
 
 ☕ Want to buy me a coffee?
+
+Use [Github Sponsors](https://github.com/sponsors/seriousm4x) or one of the following crypto adresses:
+
 ```
 XMR: 48AjjXTe3CM3dENMkrbXKZboyUgmyo9uv2YsC7vKJaAd2K4U74jHNNpSkvJicGtns4dmn6EAQErn8MLH2PQ8xyoDSPmkGmc
 BTC: bc1qwa37tdt5cg7una7jns5549kd85hnhrq70ks865
