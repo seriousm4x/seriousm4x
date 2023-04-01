@@ -1,5 +1,5 @@
 <p>
-<img width="200" align='left' src="https://avatars.githubusercontent.com/u/23456686?v=4" alt="profile-pic" />
+<img width="190" align='left' src="https://avatars.githubusercontent.com/u/23456686?v=4" alt="profile-pic" />
 </p>
 
 ### Hi, I'm Max 👋
