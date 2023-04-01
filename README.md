@@ -13,8 +13,8 @@
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dark&hide_border=true&locale=en" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=seriousm4x&theme=dark&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dark&hide_border=true&locale=en" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seriousm4x&theme=dark&hide_border=true" />
 </p>
 
 ---
