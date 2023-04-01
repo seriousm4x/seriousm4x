@@ -13,12 +13,8 @@
 ---
 
 <p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dark&hide_border=true&locale=en" alt="seriousm4x" />
-  </a>
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seriousm4x&theme=dark&hide_border=true" alt="seriousm4x" />
-  </a>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dark&hide_border=true&locale=en" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=seriousm4x&theme=dark&hide_border=true" />
 </p>
 
 ---
