@@ -21,22 +21,22 @@
 
 ### Highlighted Projects 🌟
 
-- [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap\
-  ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/UpSnap) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/UpSnap) ![GitHub](https://img.shields.io/github/license/seriousm4x/UpSnap)
-- [AgileProggers/archiv-backend](https://github.com/AgileProggers/archiv-backend) - Twitch archive backend using Go and FFmpeg\
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AgileProggers/archiv-backend) ![GitHub forks](https://img.shields.io/github/forks/AgileProggers/archiv-backend) ![GitHub top language](https://img.shields.io/github/languages/top/AgileProggers/archiv-backend) ![GitHub](https://img.shields.io/github/license/AgileProggers/archiv-backend)
-- [AgileProggers/archiv-frontend](https://github.com/AgileProggers/archiv-frontend) - Twitch archive frontend using SvelteKit and customized Bootstrap\
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AgileProggers/archiv-frontend) ![GitHub forks](https://img.shields.io/github/forks/AgileProggers/archiv-frontend) ![GitHub top language](https://img.shields.io/github/languages/top/AgileProggers/archiv-frontend) ![GitHub](https://img.shields.io/github/license/AgileProggers/archiv-frontend)
-- [AgileProggers/archiv-transcribe](https://github.com/AgileProggers/archiv-transcribe) - Speech to text using whisper, used in [AgileProggers/archiv-backend](https://github.com/AgileProggers/archiv-backend)\
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AgileProggers/archiv-transcribe) ![GitHub forks](https://img.shields.io/github/forks/AgileProggers/archiv-transcribe) ![GitHub top language](https://img.shields.io/github/languages/top/AgileProggers/archiv-transcribe) ![GitHub](https://img.shields.io/github/license/AgileProggers/archiv-transcribe)
+-   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap\
+    ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/UpSnap) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/UpSnap) ![GitHub](https://img.shields.io/github/license/seriousm4x/UpSnap)
+-   [seriousm4x/wubbl0rz-archiv-backend](https://github.com/seriousm4x/wubbl0rz-archiv-backend) - Twitch archive backend using Go and FFmpeg\
+    ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/wubbl0rz-archiv-backend) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/wubbl0rz-archiv-backend) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/wubbl0rz-archiv-backend) ![GitHub](https://img.shields.io/github/license/seriousm4x/wubbl0rz-archiv-backend)
+-   [seriousm4x/wubbl0rz-archiv-frontend](https://github.com/seriousm4x/wubbl0rz-archiv-frontend) - Twitch archive frontend using SvelteKit and customized Bootstrap\
+    ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/wubbl0rz-archiv-frontend) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/wubbl0rz-archiv-frontend) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/wubbl0rz-archiv-frontend) ![GitHub](https://img.shields.io/github/license/seriousm4x/wubbl0rz-archiv-frontend)
+-   [seriousm4x/wubbl0rz-archiv-transcribe](https://github.com/seriousm4x/wubbl0rz-archiv-transcribe) - Speech to text using whisper, used in [seriousm4x/wubbl0rz-archiv-backend](https://github.com/seriousm4x/wubbl0rz-archiv-backend)\
+    ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub](https://img.shields.io/github/license/seriousm4x/wubbl0rz-archiv-transcribe)
 
 ---
 
 ### Want to buy me a ☕ ?
 
 <p>
-  <a href='https://ko-fi.com/seriousm4x' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  <a href="https://github.com/sponsors/seriousm4x"><img height='35' style='border:0px;height:46px;' src="https://img.shields.io/github/sponsors/seriousm4x?color=%23EA4AAA&label=GitHub%20Sponsors&logo=GitHub%20Sponsors" /></a>
+  <a href='https://ko-fi.com/seriousm4x' target='_blank'><img height='35' style='border:0px;height:35px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <a href="https://github.com/sponsors/seriousm4x"><img height='35' style='border:0px;height:35px;' src="https://img.shields.io/github/sponsors/seriousm4x?color=%23EA4AAA&label=GitHub%20Sponsors&logo=GitHub%20Sponsors" /></a>
 </p>
 
 ```
