@@ -25,7 +25,7 @@
     ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/UpSnap) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/UpSnap) ![GitHub](https://img.shields.io/github/license/seriousm4x/UpSnap)
 -   [seriousm4x/wubbl0rz-archiv](https://github.com/seriousm4x/wubbl0rz-archiv) - Twitch archive using Go, SvelteKit and FFmpeg\
     ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/wubbl0rz-archiv) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/wubbl0rz-archiv) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/wubbl0rz-archiv) ![GitHub](https://img.shields.io/github/license/seriousm4x/wubbl0rz-archiv)
--   [seriousm4x/wubbl0rz-archiv-transcribe](https://github.com/seriousm4x/wubbl0rz-archiv-transcribe) - Speech to text using whisper, used in [seriousm4x/wubbl0rz-archiv-backend](https://github.com/seriousm4x/wubbl0rz-archiv-backend)\
+-   [seriousm4x/wubbl0rz-archiv-transcribe](https://github.com/seriousm4x/wubbl0rz-archiv-transcribe) - Speech to text using whisper, used in [seriousm4x/wubbl0rz-archiv](https://github.com/seriousm4x/wubbl0rz-archiv)\
     ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub forks](https://img.shields.io/github/forks/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub top language](https://img.shields.io/github/languages/top/seriousm4x/wubbl0rz-archiv-transcribe) ![GitHub](https://img.shields.io/github/license/seriousm4x/wubbl0rz-archiv-transcribe)
 
 ---
