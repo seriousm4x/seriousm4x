@@ -32,10 +32,8 @@
 
 ### Want to buy me a ☕ ?
 
-<p>
-  <a href='https://ko-fi.com/seriousm4x' target='_blank'><img height='35' style='border:0px;height:35px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  <a href="https://github.com/sponsors/seriousm4x"><img height='35' style='border:0px;height:35px;' src="https://img.shields.io/github/sponsors/seriousm4x?color=%23EA4AAA&label=GitHub%20Sponsors&logo=GitHub%20Sponsors" /></a>
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1IGTZ2)
+<a href="https://github.com/sponsors/seriousm4x"><img height='30' style='border:0px;height:30px;' src="https://img.shields.io/github/sponsors/seriousm4x?color=%23EA4AAA&label=GitHub%20Sponsors&logo=GitHub%20Sponsors" /></a>
 
 ```
 XMR: 48AjjXTe3CM3dENMkrbXKZboyUgmyo9uv2YsC7vKJaAd2K4U74jHNNpSkvJicGtns4dmn6EAQErn8MLH2PQ8xyoDSPmkGmc
