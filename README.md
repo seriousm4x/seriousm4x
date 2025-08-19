@@ -32,13 +32,12 @@
 
 ### Want to buy me a ☕ ?
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1IGTZ2)
 <a href="https://github.com/sponsors/seriousm4x"><img height='30' style='border:0px;height:30px;' src="https://img.shields.io/github/sponsors/seriousm4x?color=%23EA4AAA&label=GitHub%20Sponsors&logo=GitHub%20Sponsors" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1IGTZ2)
 
 ```
-XMR: 48AjjXTe3CM3dENMkrbXKZboyUgmyo9uv2YsC7vKJaAd2K4U74jHNNpSkvJicGtns4dmn6EAQErn8MLH2PQ8xyoDSPmkGmc
-BTC: bc1qwa37tdt5cg7una7jns5549kd85hnhrq70ks865
+BTC: bc1q78l73csl8z3cqphjt78jmxqld05qyrdldz4n5k
 ETH: 0xFEAac95880f17b009A14Df4Fd75841B31E317Ce4
 LTC: ltc1q0gfw5rnk9wlgalhg7lxduyxkvwpjjf2rqx7642
-DOT: 13rZ3wdX8Lp4u9YmsUAhfPdGjJvVUNbGieddf8DTorH4hbWz
+MONERO: 48AjjXTe3CM3dENMkrbXKZboyUgmyo9uv2YsC7vKJaAd2K4U74jHNNpSkvJicGtns4dmn6EAQErn8MLH2PQ8xyoDSPmkGmc
 ```
