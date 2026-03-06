@@ -12,13 +12,6 @@
 
 ---
 
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=seriousm4x&show_icons=true&theme=dark&hide_border=true&locale=en" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seriousm4x&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### Highlighted Projects 🌟
 
 -   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap\
