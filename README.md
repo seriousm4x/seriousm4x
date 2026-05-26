@@ -6,7 +6,6 @@
 
 🎥 Audio visual media designer (cutter and camera guy) from Germany\
 🚧 My biggest programming projects are [UpSnap](https://github.com/seriousm4x/UpSnap) and [wubbl0rz.tv](https://wubbl0rz.tv/)\
-🤖 Very interested in Open Source AI projects like whisper\
 🔥 Arch (btw) and Hyprland user for both, programming and video editing in Davinci Resolve\
 ☕ Coffee enjoyer
 
